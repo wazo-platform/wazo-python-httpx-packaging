@@ -1,0 +1,14 @@
+#!/usr/bin/make -f
+
+PKG = $(word 2,$(shell dpkg-parsechangelog | grep Source))
+VERSION ?= $(shell cat VERSION)
+URL_DOWNLOAD = "https://github.com/encode/httpx/archive/${VERSION}.tar.gz"
+
+%:
+	dh $@ --with python3
+
+.PHONY: get-orig-source
+
+get-orig-source:
+	@echo "# Downloading..."
+	wget -nv -T10 -t3 $(URL_DOWNLOAD) -O ../$(PKG)_$(VERSION).orig.tar.gz

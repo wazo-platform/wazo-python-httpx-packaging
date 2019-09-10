@@ -1,0 +1,5 @@
+wazo-python-httpx-packaging (0.7.2-1) wazo-dev-buster; urgency=medium
+
+  * Initial release
+
+ -- Wazo Maintainers <dev+pkg@wazo.community>  Mon, 09 Sep 2019 20:48:00 -0400

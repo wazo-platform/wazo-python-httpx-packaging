@@ -1,0 +1,11 @@
+Format: http://www.debian.org/doc/packaging-manuals/Copyright 1-2019 The Wazo Authors  (see the AUTHORS file)
+Upstream-Name: hyper
+Source: https://github.com/Lukasa/hyper.git
+
+Files: *
+Copyright: 2014 Cory Benfield, Google Inc
+License: MIT
+
+Files: debian/*
+Copyright: 2019 The Wazo Authors  (see the AUTHORS file)
+License: GPL-3
