@@ -1,3 +1,9 @@
+wazo-python-httpx-packaging (0.7.2-2) wazo-dev-buster; urgency=medium
+
+  * Use pybuild
+
+ -- Wazo Maintainers <dev@wazo.community>  Wed, 11 Sep 2019 10:13:05 -0400
+
 wazo-python-httpx-packaging (0.7.2-1) wazo-dev-buster; urgency=medium
 
   * Initial release
