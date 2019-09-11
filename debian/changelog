@@ -1,3 +1,9 @@
+wazo-python-httpx-packaging (0.7.2-4) wazo-dev-buster; urgency=medium
+
+  * Fix rules
+
+ -- Wazo Maintainers <dev@wazo.community>  Wed, 11 Sep 2019 10:31:36 -0400
+
 wazo-python-httpx-packaging (0.7.2-3) wazo-dev-buster; urgency=medium
 
   * Fix dh_auto_clean
