@@ -1,3 +1,9 @@
+wazo-python-httpx-packaging (0.7.2-5) UNRELEASED; urgency=medium
+
+  * Remove generated file: files
+
+ -- Wazo Maintainers <dev@wazo.community>  Wed, 11 Sep 2019 17:30:48 -0400
+
 wazo-python-httpx-packaging (0.7.2-4) wazo-dev-buster; urgency=medium
 
   * Fix rules
