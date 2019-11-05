@@ -2,6 +2,11 @@
 
 Debian packaging for [python3-httpx](https://github.com/encode/httpx/) used in Wazo.
 
+## Reason
+
+* Not packaged by Debian Buster
+* Needed by wazo-webhookd
+
 ## Upgrading
 
 To upgrade python-httpx
