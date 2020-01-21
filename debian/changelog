@@ -1,3 +1,9 @@
+wazo-python-httpx-packaging (0.11.0-1) wazo-dev-buster; urgency=medium
+
+  * Update version to 0.11.0
+
+ -- Wazo Maintainers <dev+pkg@wazo.community>  Wed, 21 Jan 2020 11:34:00 -0400
+
 wazo-python-httpx-packaging (0.7.2-6) wazo-dev; urgency=medium
 
   * rebuild
