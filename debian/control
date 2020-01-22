@@ -23,3 +23,5 @@ Depends: ${misc:Depends},
          python3-rfc3986 (>= 1)
 Description: HTTP/2 Client for Python.
  .
+ HTTPX is a fully featured HTTP client for Python 3, which provides
+ sync and async APIs, and support for both HTTP/1.1 and HTTP/2.
