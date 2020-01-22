@@ -1,3 +1,9 @@
+wazo-python-httpx-packaging (0.7.2-6) wazo-dev; urgency=medium
+
+  * rebuild
+
+  -- Wazo Maintainers <dev+pkg@wazo.community>  Wed, 22 Jan 2020 23:19:17 +0100
+
 wazo-python-httpx-packaging (0.7.2-5) UNRELEASED; urgency=medium
 
   * Remove generated file: files
